@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Workspaces\Publishs\CrouseServicePublic_Publish</_PublishTargetUrl>
+    <History>True|2022-09-19T09:09:13.9630072Z;True|2022-09-19T11:04:16.8181588+04:30;True|2022-09-18T17:39:54.2760183+04:30;True|2022-09-05T13:48:06.1847438+04:30;True|2022-09-03T16:01:18.4238339+04:30;True|2022-07-16T11:35:33.7613820+04:30;True|2022-07-12T18:03:56.0641085+04:30;True|2022-07-11T13:32:54.8218934+04:30;True|2022-07-11T13:07:41.7770999+04:30;True|2022-07-09T15:25:34.8594384+04:30;True|2022-07-09T14:23:03.5301456+04:30;True|2022-07-04T18:50:15.2671737+04:30;True|2022-07-04T18:30:03.3638319+04:30;True|2022-06-29T09:51:06.2395649+04:30;True|2022-06-28T17:49:37.6987215+04:30;True|2021-12-25T15:09:01.9646410+03:30;True|2021-12-25T14:49:50.7937668+03:30;</History>
+  </PropertyGroup>
+</Project>
